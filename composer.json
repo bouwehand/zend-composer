@@ -9,7 +9,7 @@
     ],
     "require": {
          "php": "=5.3.13",
-         "propel/propel" : "2.0.*@dev",
+         "propel/propel1": "1.7.*@dev",
          "bootflat/bootflat": "dev-master",
          "zendframework/zendframework1": "1.12.*@dev"
     }
