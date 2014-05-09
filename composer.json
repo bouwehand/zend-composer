@@ -1,0 +1,16 @@
+{
+    "name": "zend/composer",
+    "description": "my idea for a package",
+    "authors": [
+        {
+            "name": "b.ouwehand",
+            "email": "b.ouwehand@synocom.nl"
+        }
+    ],
+    "require": {
+         "php": "=5.3.13",
+         "propel/propel" : "2.0.*@dev",
+         "bootflat/bootflat": "dev-master",
+         "zendframework/zendframework1": "1.12.*@dev"
+    }
+}
